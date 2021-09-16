@@ -1,0 +1,10 @@
+#Most effects used will be from Shields Up, so this is mostly an experimental playground.
+
+effect "rapier flight"
+	sprite "projectile/sunbeam"
+		"frame rate" 1.3
+		"random start frame"
+	sound "anti-missile"
+	lifetime 9
+	"random lifetime" 2
+	"velocity scale" 0.95
