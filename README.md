@@ -2,7 +2,7 @@
 This is a workspace for my mod for Endless Sky, the Evora Navaiya.
 
 The Evora Navaiya adds two alien species to the southwest of Coalition space; the Evora Navaiya and the Doyek.
-There are more spoilers belo
+There are more spoilers below, but all of the information, when the mod is completed, will eventually be available in the mod itself and so, if you plan on playing, I would advise against reading.
 
 
 The Evora Navaiya are an isolated alien species, similar in structure to humans, though overall their skin tone is darker, they have colorful scales on many parts of their body, and they are much, much taller. Both males and females regularly grow in excess of eight feet tall and weigh over 500 pounds.
